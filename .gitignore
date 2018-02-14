@@ -1,0 +1,8 @@
+.idea
+.gradle
+build/*
+allure-report/*
+test-output/*
+target/*
+/target/
+.DS_Store
